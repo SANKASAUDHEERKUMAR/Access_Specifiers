@@ -1,0 +1,24 @@
+package javaPrograms;
+
+class parent{
+	void parentmethod(int a){
+	System.out.println("parent class Executed"+a);
+	}
+}
+class child extends parent{
+	void parentmethod(int x){
+		System.out.println("parent method in clid class"+x);
+	}
+	void childmethod(){
+		System.out.println("Child class Executed");
+		}	
+}
+public class Inheritance {
+
+	public static void main(String[] args) {
+		child c=new child();
+		c.parentmethod(15);
+		c.childmethod();
+	}
+
+}

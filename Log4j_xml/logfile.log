@@ -1,0 +1,12 @@
+2019-02-14 12:19:57,228 INFO  [log] ********* Browser Opened********* 
+2019-02-14 12:19:59,241 INFO  [log] ********* Login Successfully********* 
+2019-02-14 12:20:00,225 INFO  [log] ********* mouse over completed********* 
+2019-02-14 12:20:00,327 INFO  [log] ********* Frame Entered********* 
+2019-02-14 12:20:03,328 INFO  [log] ********* Wait Some Time********* 
+2019-02-14 12:20:06,698 INFO  [log] ********* Wait Some Time********* 
+2019-02-14 12:20:06,755 INFO  [log] ********* Export HR data********* 
+2019-02-14 12:20:09,755 INFO  [log] ********* Wait Some Time********* 
+2019-02-14 12:20:09,767 INFO  [log] ********* Frame Exited********* 
+2019-02-14 12:20:12,767 INFO  [log] ********* Wait Some Time********* 
+2019-02-14 12:20:13,440 INFO  [log] ********* Logout Successfully********* 
+2019-02-14 12:20:14,155 INFO  [log] ********* Browser closed********* 

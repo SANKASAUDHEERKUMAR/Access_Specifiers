@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser Opened]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11351" started-at="2019-02-13T13:55:15Z" finished-at="2019-02-13T13:55:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11351" started-at="2019-02-13T13:55:15Z" finished-at="2019-02-13T13:55:27Z">
+      <class name="TestNG_TsetScripts.Testng_Tc001">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:TestNG_TsetScripts.Testng_Tc001@bbc1e0]" name="tc1" duration-ms="11318" started-at="2019-02-13T19:25:15Z" finished-at="2019-02-13T19:25:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Opened]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- TestNG_TsetScripts.Testng_Tc001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

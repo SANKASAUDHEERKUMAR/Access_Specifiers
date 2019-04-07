@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser Opened]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser Opened]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39325" started-at="2019-02-15T04:17:14Z" finished-at="2019-02-15T04:17:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39325" started-at="2019-02-15T04:17:14Z" finished-at="2019-02-15T04:17:53Z">
+      <class name="Test_suite.ts.Test_suite_002">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:Test_suite.ts.Test_suite_002@1fb3008]" name="tc2" duration-ms="8595" started-at="2019-02-15T09:47:45Z" finished-at="2019-02-15T09:47:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Opened]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- Test_suite.ts.Test_suite_002 -->
+      <class name="Test_suite.ts.Test_suite_001">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:Test_suite.ts.Test_suite_001@1dd3bcd]" name="tc1" duration-ms="30666" started-at="2019-02-15T09:47:14Z" finished-at="2019-02-15T09:47:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Opened]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- Test_suite.ts.Test_suite_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

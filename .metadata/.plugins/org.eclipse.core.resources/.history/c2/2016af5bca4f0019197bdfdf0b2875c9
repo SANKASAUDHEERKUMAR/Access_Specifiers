@@ -1,0 +1,29 @@
+package javaPrograms;
+
+import java.util.HashMap;
+import java.util.Scanner;
+
+public class PrintDuplicateWords {
+
+	static void Duplicate_Word(){
+		Scanner sc=new Scanner(System.in);
+		String S=sc.nextLine();
+		HashMap<String,Integer> hm=new HashMap<>();
+		String[] ST=S.split(" ");
+		for(String Duplicate:ST){
+			//System.out.println(Duplicate); //Print all the words 
+			if(hm.get(Duplicate)!=null){
+				hm.put(Duplicate, hm.get(Duplicate)+1);
+			}
+			else{
+			hm.put(Duplicate, 1); // Printed like this ---i am am learning java in java T point using java book {using=1, java=1, T=1, in=1, book=1, i=1, learning=1, am=1, point=1}
+			}
+		}
+		System.out.println(hm);
+	}
+	public static void main(String[] args) {
+		
+		Duplicate_Word();
+	}
+
+}

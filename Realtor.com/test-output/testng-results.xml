@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27873" started-at="2019-02-13T05:06:41Z" finished-at="2019-02-13T05:07:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27873" started-at="2019-02-13T05:06:41Z" finished-at="2019-02-13T05:07:09Z">
+      <class name="RealtorScripts.TC_001">
+        <test-method status="PASS" signature="tc001()[pri:0, instance:RealtorScripts.TC_001@bbc1e0]" name="tc001" duration-ms="27842" started-at="2019-02-13T10:36:41Z" finished-at="2019-02-13T10:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+      </class> <!-- RealtorScripts.TC_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

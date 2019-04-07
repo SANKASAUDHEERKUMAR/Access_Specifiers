@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Open Browser]]>
+    </line>
+    <line>
+      <![CDATA[Login Application]]>
+    </line>
+    <line>
+      <![CDATA[Enter Frame]]>
+    </line>
+    <line>
+      <![CDATA[Close Frame]]>
+    </line>
+    <line>
+      <![CDATA[Logout Application]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19971" started-at="2019-02-18T04:51:23Z" finished-at="2019-02-18T04:51:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19971" started-at="2019-02-18T04:51:23Z" finished-at="2019-02-18T04:51:43Z">
+      <class name="Hybrid_TS.HY_TS_002">
+        <test-method status="PASS" signature="HFTS002()[pri:0, instance:Hybrid_TS.HY_TS_002@25790e]" name="HFTS002" duration-ms="19934" started-at="2019-02-18T10:21:23Z" finished-at="2019-02-18T10:21:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Open Browser]]>
+            </line>
+            <line>
+              <![CDATA[Login Application]]>
+            </line>
+            <line>
+              <![CDATA[Enter Frame]]>
+            </line>
+            <line>
+              <![CDATA[Close Frame]]>
+            </line>
+            <line>
+              <![CDATA[Logout Application]]>
+            </line>
+            <line>
+              <![CDATA[Close Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HFTS002 -->
+      </class> <!-- Hybrid_TS.HY_TS_002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
