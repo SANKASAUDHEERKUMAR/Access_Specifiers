@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;Page_factory_fun.PageFact_fun&apos; to &apos;PageFact_login&apos;&#x0D;&#x0A;- Original project: &apos;PageFactory&apos;&#x0D;&#x0A;- Original element: &apos;Page_factory_fun.PageFact_fun&apos;&#x0D;&#x0A;- Renamed element: &apos;Page_factory_fun.PageFact_login&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PageFact_fun&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Page_factory_fun{PageFact_fun.java[PageFact_fun" matchStrategy="1" name="PageFact_login" qualified="false" references="true" similarDeclarations="false" stamp="1550560387560" textual="false" version="1.0"/>
-</session>
